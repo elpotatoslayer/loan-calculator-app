@@ -1,3 +1,3 @@
 # Loan Calculator
 
-Details TBA
+![Screenshot]('./assets/loan.png')

@@ -1,3 +1,3 @@
 # Loan Calculator
 
-![Screenshot]('./assets/loan.png')
+![Screenshot](/assets/loan.png)
